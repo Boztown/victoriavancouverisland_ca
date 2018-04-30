@@ -1,0 +1,119 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/248cffc/
+*	docs/css/style.css	/^* {$/;"	s
+*	static/css/style.css	/^* {$/;"	s
+2014	docs/archives/index.html	/^      <h2>2014<\/h2>$/;"	i
+2016	docs/archives/index.html	/^      <h2>2016<\/h2>$/;"	i
+2017	docs/archives/index.html	/^      <h2>2017<\/h2>$/;"	i
+A Section	docs/posts/hello-hugo/index.html	/^<h2 id="a-section">A Section<\/h2>$/;"	i
+About	docs/about/index.html	/^  <h1>About <aside><\/aside><\/h1>$/;"	h
+Archives	docs/archives/index.html	/^  <h1>Archives<\/h1>$/;"	h
+Archives	layouts/archives/single.html	/^  <h1>Archives<\/h1>$/;"	h
+Blog posts	docs/tags/blog/index.html	/^    <h1>Blog posts<\/h1>$/;"	h
+Code posts	docs/tags/code/index.html	/^    <h1>Code posts<\/h1>$/;"	h
+Example posts	docs/tags/example/index.html	/^    <h1>Example posts<\/h1>$/;"	h
+Front Matter for Fun	docs/posts/hello-hugo/index.html	/^<h2 id="front-matter-for-fun">Front Matter for Fun<\/h2>$/;"	i
+Highlight.js posts	docs/tags/highlight.js/index.html	/^    <h1>Highlight.js posts<\/h1>$/;"	h
+Hugo posts	docs/tags/hugo/index.html	/^    <h1>Hugo posts<\/h1>$/;"	h
+Images posts	docs/tags/images/index.html	/^    <h1>Images posts<\/h1>$/;"	h
+Showing off with Markdown	docs/posts/hello-hugo/index.html	/^<h2 id="showing-off-with-markdown">Showing off with Markdown<\/h2>$/;"	i
+Song posts	docs/tags/song/index.html	/^    <h1>Song posts<\/h1>$/;"	h
+Step 1: Install Hugo	docs/posts/hugo-quick-start/index.html	/^<h2 id="step-1-install-hugo">Step 1: Install Hugo<\/h2>$/;"	i
+Step 2: Create a New Site	docs/posts/hugo-quick-start/index.html	/^<h2 id="step-2-create-a-new-site">Step 2: Create a New Site<\/h2>$/;"	i
+Step 3: Add a Theme	docs/posts/hugo-quick-start/index.html	/^<h2 id="step-3-add-a-theme">Step 3: Add a Theme<\/h2>$/;"	i
+Step 4: Add Some Content	docs/posts/hugo-quick-start/index.html	/^<h2 id="step-4-add-some-content">Step 4: Add Some Content<\/h2>$/;"	i
+Step 5: Customize the Theme	docs/posts/hugo-quick-start/index.html	/^<h2 id="step-5-customize-the-theme">Step 5: Customize the Theme<\/h2>$/;"	i
+Tutorial posts	docs/tags/tutorial/index.html	/^    <h1>Tutorial posts<\/h1>$/;"	h
+a	docs/css/style.css	/^a {$/;"	s
+a	static/css/style.css	/^a {$/;"	s
+a:active	docs/css/style.css	/^a:active { $/;"	s
+a:active	static/css/style.css	/^a:active { $/;"	s
+a:hover	docs/css/style.css	/^a:hover {$/;"	s
+a:hover	static/css/style.css	/^a:hover {$/;"	s
+aside	docs/css/style.css	/^aside {$/;"	s
+aside	static/css/style.css	/^aside {$/;"	s
+aside em	docs/css/style.css	/^aside em {$/;"	s
+aside em	static/css/style.css	/^aside em {$/;"	s
+blockquote	docs/css/style.css	/^blockquote {$/;"	s
+blockquote	static/css/style.css	/^blockquote {$/;"	s
+blockquote p	docs/css/style.css	/^blockquote p {$/;"	s
+blockquote p	static/css/style.css	/^blockquote p {$/;"	s
+body	docs/css/style.css	/^body {$/;"	s
+body	docs/css/style.css	/^body, li p {$/;"	s
+body	static/css/style.css	/^body {$/;"	s
+body	static/css/style.css	/^body, li p {$/;"	s
+body > *	docs/css/style.css	/^	body > * {$/;"	s
+body > *	static/css/style.css	/^	body > * {$/;"	s
+code	docs/css/style.css	/^code {$/;"	s
+code	static/css/style.css	/^code {$/;"	s
+div.content	docs/css/style.css	/^	div.content { $/;"	c
+div.content	docs/css/style.css	/^div.content { $/;"	c
+div.content	static/css/style.css	/^	div.content { $/;"	c
+div.content	static/css/style.css	/^div.content { $/;"	c
+div.nav a:active div	docs/css/style.css	/^div.nav a:active div { $/;"	s
+div.nav a:active div	static/css/style.css	/^div.nav a:active div { $/;"	s
+figcaption	docs/css/style.css	/^figcaption {$/;"	s
+figcaption	static/css/style.css	/^figcaption {$/;"	s
+footer	docs/css/style.css	/^footer {$/;"	s
+footer	static/css/style.css	/^footer {$/;"	s
+h1	docs/css/style.css	/^h1 {$/;"	s
+h1	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h1	static/css/style.css	/^h1 {$/;"	s
+h1	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h2	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h2	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h3	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h3	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h4	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h4	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h5	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h5	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h6	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+h6	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+header	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+header	docs/css/style.css	/^header {$/;"	s
+header	docs/css/style.css	/^header,header.a{$/;"	s
+header	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	s
+header	static/css/style.css	/^header {$/;"	s
+header	static/css/style.css	/^header,header.a{$/;"	s
+header.a	docs/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	c
+header.a	docs/css/style.css	/^header,header.a{$/;"	c
+header.a	static/css/style.css	/^h1,h2,h3,h4,h5,h6,header,header.a {$/;"	c
+header.a	static/css/style.css	/^header,header.a{$/;"	c
+html	docs/css/style.css	/^	html {$/;"	s
+html	docs/css/style.css	/^html {$/;"	s
+html	static/css/style.css	/^	html {$/;"	s
+html	static/css/style.css	/^html {$/;"	s
+img	docs/css/style.css	/^img {$/;"	s
+img	static/css/style.css	/^img {$/;"	s
+li	docs/css/style.css	/^li {$/;"	s
+li	static/css/style.css	/^li {$/;"	s
+li p	docs/css/style.css	/^body, li p {$/;"	s
+li p	static/css/style.css	/^body, li p {$/;"	s
+ol	docs/css/style.css	/^ul,ol {$/;"	s
+ol	static/css/style.css	/^ul,ol {$/;"	s
+p	docs/css/style.css	/^p {$/;"	s
+p	static/css/style.css	/^p {$/;"	s
+p a	docs/css/style.css	/^p a {$/;"	s
+p a	static/css/style.css	/^p a {$/;"	s
+posts	docs/index.html	/^    <h1> posts<\/h1>$/;"	h
+posts	docs/posts/index.html	/^    <h1> posts<\/h1>$/;"	h
+table	docs/css/style.css	/^table { $/;"	s
+table	static/css/style.css	/^table { $/;"	s
+table td	docs/css/style.css	/^table td {$/;"	s
+table td	static/css/style.css	/^table td {$/;"	s
+table td + td	docs/css/style.css	/^table td + td {$/;"	s
+table td + td	static/css/style.css	/^table td + td {$/;"	s
+table th	docs/css/style.css	/^table th {$/;"	s
+table th	static/css/style.css	/^table th {$/;"	s
+table tr + tr	docs/css/style.css	/^table tr + tr {$/;"	s
+table tr + tr	static/css/style.css	/^table tr + tr {$/;"	s
+ul	docs/css/style.css	/^ul,ol {$/;"	s
+ul	static/css/style.css	/^ul,ol {$/;"	s
+{{ .Key }}	layouts/archives/single.html	/^      <h2>{{ .Key }}<\/h2>$/;"	i
+{{ title .Data.Term }} posts	layouts/partials/middle.html	/^    <h1>{{ title .Data.Term  }} posts<\/h1>$/;"	h
