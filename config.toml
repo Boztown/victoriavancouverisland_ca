@@ -1,4 +1,4 @@
-baseURL = "https://victoriavancouverisland.netlify.com"
+baseURL = "http://victoriavancouverisland.netlify.com/"
 defaultContentLanguage = "en-us"
 languageCode = "en-us"
 title = "VictoriaVancouverIsland"
